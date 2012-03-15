@@ -1,0 +1,2 @@
+module MyMailsHelper
+end

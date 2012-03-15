@@ -1,4 +1,6 @@
 Mailit::Application.routes.draw do
+  resources :my_mails
+
   resources :users
 
   # The priority is based upon order of creation:
